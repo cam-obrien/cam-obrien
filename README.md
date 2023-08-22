@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## Hello all, welcome to my Github!<br><br>I am a new graduate from Oregon State University with a B.S. in Computer Science with a minor in Business Administration. <br><br>I am seeking to utilize my broad educational background with an excellent analytical, technical, and inclusive skill set to thrive as a developer. The vast experience I gained during my OSU curriculum in Computer Science has readied me to seamlessly enter the field of software engineering.<br><br>I am currently working as a software engineer for the American Society on Aging creating a cloud-based communications platform for local organizations across the United States. This experience has been both a great way to gain experience with modern tech stacks but also a motivational boost in pursuing my career in software.<br>
 
 
